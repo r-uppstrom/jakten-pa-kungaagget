@@ -1,4 +1,4 @@
-# eaaster-egg-hunt
+# jakten-pa-kungaagget
 
 Minimal Vite + React setup using TypeScript.
 
