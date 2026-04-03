@@ -1,7 +1,7 @@
 const clue1 = "KO";
 const clue2 = "JAN";
 const clue3 =
-  "Den stora kartan döljer fler hemligheter än som syns vid första anblicken. För att hitta nästa ledtråd, låt kanterna mötas i mitten och tiden ger dig nästa kod.";
+  "Den andra kartan döljer fler hemligheter än som syns vid första anblicken. För att hitta nästa ledtråd, låt kanterna mötas i mitten och tiden ger dig nästa kod.";
 const clue4 =
   "Undersök leveransplatsen av familjen Uppströms brev, och sista koden må du se.";
 const clue5 =
